@@ -77,6 +77,21 @@ function Gallery() {
           <img src="/imagens/foto6.jpg" alt="Foto 6" style={estilo} />
           <h3>Desembarque de Canoa Rampa Riviera</h3>
         </div>
+
+        <div style={card}>
+          <img src="/imagens/centro.jpg" alt="Centro da cidade" style={estilo} />
+          <h3>Vista Aérea do Centro</h3>
+        </div>
+
+        <div style={card}>
+          <img src="/imagens/pista-skate.jpg" alt="Pista de Skate" style={estilo} />
+          <h3>Pista de Skate</h3>
+        </div>
+
+        <div style={card}>
+          <img src="/imagens/lago.jpg" alt="Lago" style={estilo} />
+          <h3>Lago e Parque</h3>
+        </div>
       </div>
     </section>
   );
